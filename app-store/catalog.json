@@ -1,0 +1,11 @@
+
+{
+  "schema_version": 1,
+  "store": {
+    "name": "Ember Depot",
+    "platform": "EmberOS Auto",
+    "description": "Official EmberOS automotive app catalog"
+  },
+  "catalog_version": "1.0.0",
+  "apps": []
+}
