@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "kind": "ember-runtime",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "architecture": "linux-arm64",
   "min_version": "1.7.1",
-  "notes": "EmberMaps head-unit beta: native route preview with real road geometry, online driving directions, optional GPS guidance, saved places, map camera and split-dashboard integration; improved offline and failure states. Traffic, 3D, police reports, convoy and offline road routing remain future features.",
-  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.8.0/EmberOS-Auto-1.8.0-CM5.zip",
-  "sha256": "592504616162f4255090efce6ac82f594bb78142f855f75f9b805d9c4b0f440c",
-  "size": 3243527
+  "notes": "EmberMaps Navigation & Places beta: improved map-area place search and pins, selectable road-route alternatives, GPS accuracy/loss handling, miles/km guidance, route ETA and dashboard continuity, configurable data services and bounded map cache. Real-time traffic, offline road graphs, 3D and convoy remain future features.",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.9.0/EmberOS-Auto-1.9.0-CM5.zip",
+  "sha256": "2c892d7f8e0c2de620b4af388178c668812d2ce0c14759ebee447aa5dd877af4",
+  "size": 3259937
 }
