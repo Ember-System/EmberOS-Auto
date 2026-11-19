@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "kind": "ember-runtime",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "architecture": "linux-arm64",
-  "min_version": "1.5.0",
-  "notes": "EmberOS Refinement: redesigned Home, Settings, Depot, Music, Maps and EmberLink; clearer controls and warnings, improved offline states, and the working embedded console.",
-  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.6.0/EmberOS-Auto-1.6.0-CM5.zip",
-  "sha256": "5e7a45bec135a5b057dc90fe50e6ff132b50271ca3d1e54981714133032f4995",
-  "size": 3142744
+  "min_version": "1.6.0",
+  "notes": "Native EmberOS two-page Home with launcher-first behavior and split map/music dashboard; customizable five-app quick bar on any edge; warm premium styling, All Apps, settings and state preservation. Existing Depot and console retained.",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.7.0/EmberOS-Auto-1.7.0-CM5.zip",
+  "sha256": "73a11820714373dfa98fb4a541a33afc403dd9dec164a4df054542ea2e2e46f2",
+  "size": 3174573
 }
