@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "kind": "ember-runtime",
-  "version": "1.5.1",
-  "min_version": "1.5.0",
+  "version": "1.6.0",
   "architecture": "linux-arm64",
-  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.5.1/EmberOS-Auto-1.5.1-CM5.zip",
-  "sha256": "456190661bfd392e5ec3cb82e90cafee6913b558a8dbb5c610f8aff015ce8d64",
-  "size": 3541718,
-  "notes": "GitHub update check: installs version 1.5.1 through Ember Depot. The interface and app features are the same as 1.5.0."
+  "min_version": "1.5.0",
+  "notes": "EmberOS Refinement: redesigned Home, Settings, Depot, Music, Maps and EmberLink; clearer controls and warnings, improved offline states, and the working embedded console.",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.6.0/EmberOS-Auto-1.6.0-CM5.zip",
+  "sha256": "5e7a45bec135a5b057dc90fe50e6ff132b50271ca3d1e54981714133032f4995",
+  "size": 3142744
 }
