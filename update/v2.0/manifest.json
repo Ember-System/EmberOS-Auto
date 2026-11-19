@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "kind": "ember-runtime",
+  "version": "1.10.0",
+  "architecture": "linux-arm64",
+  "min_version": "1.7.1",
+  "notes": "EmberMaps Offline Map Library: signed download catalogue, persistent verified NVMe region packs, USB import, South Dakota state selection, native offline road rendering, offline place and road search, package removal and safe updates. Offline turn-by-turn routing remains in development.",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.10.0/EmberOS-Auto-1.10.0-CM5.zip",
+  "sha256": "215bf2749c329ea424faf0368724a83d2be0bf4d4ae402d84463207451d3e8fa",
+  "size": 3291741
+}
