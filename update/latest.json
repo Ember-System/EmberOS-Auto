@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "kind": "ember-runtime",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "architecture": "linux-arm64",
-  "min_version": "1.6.0",
-  "notes": "Native EmberOS two-page Home with launcher-first behavior and split map/music dashboard; customizable five-app quick bar on any edge; warm premium styling, All Apps, settings and state preservation. Existing Depot and console retained.",
-  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.7.0/EmberOS-Auto-1.7.0-CM5.zip",
-  "sha256": "73a11820714373dfa98fb4a541a33afc403dd9dec164a4df054542ea2e2e46f2",
-  "size": 3174573
+  "min_version": "1.7.0",
+  "notes": "Refined launcher page order (Dashboard left, Home right), safe Depot app uninstall, docked touch keyboard for Console, Wi-Fi, Settings search and downloaded converter apps; cached high-quality backdrops.",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.7.1/EmberOS-Auto-1.7.1-CM5.zip",
+  "sha256": "1025efbb726097d16ec30945f59f5b5a566ebf9b807d6901adc1ef80cc72d265",
+  "size": 3200549
 }
