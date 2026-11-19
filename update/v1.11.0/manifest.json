@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "kind": "ember-runtime",
+  "version": "1.11.0",
+  "architecture": "linux-arm64",
+  "min_version": "1.10.0",
+  "notes": "EmberMaps nearby search reliability: GPS/map-centered 15, 25 or 50-mile category searches; hard distance filtering even for incorrect provider results; nearest-first fuel/food/auto/parking; offline POI search without render stalls; real GPS speed/heading, refined road symbols and guidance display. Offline routing, 3D, live traffic and convoy remain in development.",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.11.0/EmberOS-Auto-1.11.0-CM5.zip",
+  "sha256": "1472bcdd2f38247b4974fdcf9dc8d63c8842be13c71730249721a7000e133038",
+  "size": 3322121
+}
