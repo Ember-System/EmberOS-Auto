@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "kind": "ember-runtime",
+  "version": "1.5.0",
+  "min_version": "1.4.0",
+  "architecture": "linux-arm64",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.5.0/EmberOS-Auto-1.5.0-CM5.zip",
+  "sha256": "f261756936b69e22a6fea0dead036bc0e11409944f4862527c02c800ce73dd08",
+  "size": 3541709,
+  "notes": "Ember Depot: signed GitHub app downloads, app management and approved runtime updates."
+}

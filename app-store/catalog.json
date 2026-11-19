@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "apps": [
+    {
+      "id": "units",
+      "name": "Units",
+      "description": "Useful conversions for the garage and the road.",
+      "category": "Utilities",
+      "version": "1.0.0",
+      "min_os_version": "1.5.0",
+      "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/app-store/packages/Units-1.0.0.emberapp",
+      "sha256": "d42a26b5c52f8f2749e685a1ad5533cf02295dbfcb53f330f02ea2abb4448292",
+      "size": 2670
+    }
+  ]
+}
