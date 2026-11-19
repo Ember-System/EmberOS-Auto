@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "kind": "ember-runtime",
-  "version": "1.7.1",
+  "version": "1.8.0",
   "architecture": "linux-arm64",
-  "min_version": "1.7.0",
-  "notes": "Refined launcher page order (Dashboard left, Home right), safe Depot app uninstall, docked touch keyboard for Console, Wi-Fi, Settings search and downloaded converter apps; cached high-quality backdrops.",
-  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.7.1/EmberOS-Auto-1.7.1-CM5.zip",
-  "sha256": "1025efbb726097d16ec30945f59f5b5a566ebf9b807d6901adc1ef80cc72d265",
-  "size": 3200549
+  "min_version": "1.7.1",
+  "notes": "EmberMaps head-unit beta: native route preview with real road geometry, online driving directions, optional GPS guidance, saved places, map camera and split-dashboard integration; improved offline and failure states. Traffic, 3D, police reports, convoy and offline road routing remain future features.",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.8.0/EmberOS-Auto-1.8.0-CM5.zip",
+  "sha256": "592504616162f4255090efce6ac82f594bb78142f855f75f9b805d9c4b0f440c",
+  "size": 3243527
 }
