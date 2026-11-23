@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "kind": "ember-runtime",
-  "version": "1.11.1",
+  "version": "1.14.0",
   "architecture": "linux-arm64",
-  "min_version": "1.10.0",
-  "notes": "EmberMaps offline rendering hotfix: fixes missing streets in downloaded maps and improves road and place-marker visibility. Existing installed map packages are retained. This is a system runtime update. Offline routing, true 3D, live traffic and convoy are not included.",
-  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.11.1/EmberOS-Auto-1.11.1-CM5.zip",
-  "sha256": "2c672f28ca4a612d7a3ba0f7133105ee6bc55a7c7e6500a82a3ea09cdfe85a63",
-  "size": 3338398
+  "min_version": "1.11.0",
+  "notes": "EmberMaps 1.14 integrated preview: richer 2D streets, optional geographic land/water/building layers (schema 2), a road-graph offline draft preview, and a switchable tilted perspective map view. Existing map regions and EmberOS apps are preserved. Offline drafts do not validate one-way or turn restrictions and cannot start GPS guidance. Full 3D buildings, verified offline turn-by-turn navigation, traffic and convoy are not included.",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.14.0/EmberOS-Auto-1.14.0-CM5.zip",
+  "sha256": "bafef6efeb2022d797e147f9fd4cd68daf39c821592160a609563180098b086d",
+  "size": 3353612
 }
