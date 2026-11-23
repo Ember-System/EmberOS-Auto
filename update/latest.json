@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "kind": "ember-runtime",
-  "version": "1.11.0",
+  "version": "1.14.0",
   "architecture": "linux-arm64",
-  "min_version": "1.10.0",
-  "notes": "EmberMaps nearby search reliability: GPS/map-centered 15, 25 or 50-mile category searches; hard distance filtering even for incorrect provider results; nearest-first fuel/food/auto/parking; offline POI search without render stalls; real GPS speed/heading, refined road symbols and guidance display. Offline routing, 3D, live traffic and convoy remain in development.",
-  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.11.0/EmberOS-Auto-1.11.0-CM5.zip",
-  "sha256": "1472bcdd2f38247b4974fdcf9dc8d63c8842be13c71730249721a7000e133038",
-  "size": 3322121
+  "min_version": "1.11.0",
+  "notes": "EmberMaps 1.14 integrated preview: richer 2D streets, optional geographic land/water/building layers (schema 2), a road-graph offline draft preview, and a switchable tilted perspective map view. Existing map regions and EmberOS apps are preserved. Offline drafts do not validate one-way or turn restrictions and cannot start GPS guidance. Full 3D buildings, verified offline turn-by-turn navigation, traffic and convoy are not included.",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.14.0/EmberOS-Auto-1.14.0-CM5.zip",
+  "sha256": "bafef6efeb2022d797e147f9fd4cd68daf39c821592160a609563180098b086d",
+  "size": 3353612
 }
