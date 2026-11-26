@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "kind": "ember-runtime",
-  "version": "1.14.0",
+  "version": "1.16.0",
   "architecture": "linux-arm64",
-  "min_version": "1.11.0",
-  "notes": "EmberMaps 1.14 integrated preview: richer 2D streets, optional geographic land/water/building layers (schema 2), a road-graph offline draft preview, and a switchable tilted perspective map view. Existing map regions and EmberOS apps are preserved. Offline drafts do not validate one-way or turn restrictions and cannot start GPS guidance. Full 3D buildings, verified offline turn-by-turn navigation, traffic and convoy are not included.",
-  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.14.0/EmberOS-Auto-1.14.0-CM5.zip",
-  "sha256": "bafef6efeb2022d797e147f9fd4cd68daf39c821592160a609563180098b086d",
-  "size": 3353612
+  "min_version": "1.14.0",
+  "notes": "EmberOS 1.16 merges Maps 1.14 features (richer 2D styling, 2D/angled/Auto map views, schema-2 water/land/building polygons, unverified offline road drafts) and the premium Climate system app. Collapsible Maps search, South Dakota map library, signed Depot, Music, EmberLink, Settings and console are preserved. Climate is preview-only, without unverified CAN messages; offline drafts cannot start live GPS guidance.",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.16.0/EmberOS-Auto-1.16.0-CM5.zip",
+  "sha256": "e1b432e2bda41e3ddd73c45adb6c37d10574c5b1ffbcaff055b3bd7bbc9a6b26",
+  "size": 3398862
 }

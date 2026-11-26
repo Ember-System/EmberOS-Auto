@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "kind": "ember-runtime",
+  "version": "1.16.0",
+  "architecture": "linux-arm64",
+  "min_version": "1.14.0",
+  "notes": "EmberOS 1.16 merges Maps 1.14 features (richer 2D styling, 2D/angled/Auto map views, schema-2 water/land/building polygons, unverified offline road drafts) and the premium Climate system app. Collapsible Maps search, South Dakota map library, signed Depot, Music, EmberLink, Settings and console are preserved. Climate is preview-only, without unverified CAN messages; offline drafts cannot start live GPS guidance.",
+  "download_url": "https://raw.githubusercontent.com/Ember-System/EmberOS-Auto/main/update/v1.16.0/EmberOS-Auto-1.16.0-CM5.zip",
+  "sha256": "e1b432e2bda41e3ddd73c45adb6c37d10574c5b1ffbcaff055b3bd7bbc9a6b26",
+  "size": 3398862
+}
